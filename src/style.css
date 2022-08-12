@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Grande', Verdana, Arial, Tahoma, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f1f2f5;
+}
+
+.container {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid gray;
+  width: 60%;
+  margin: auto;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 2%;
+  border-bottom: 2px solid;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.chores {
+  width: 100%;
+}
+
+.choreDetails {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.3% 2%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+.oneChore {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 10px;
+}
+
+.top h2 {
+  font-size: 1rem;
+}
+
+.oneChore h2 {
+  padding: 0 15px;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.addChores {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1% 2%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.add {
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+}
+
+.icon i {
+  color: #cfcfcf;
+  cursor: cell;
+}
+
+.clearAll {
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+  background-color: #f8f8f8;
+  width: 100%;
+}
+
+.addChores input {
+  border: none;
+  padding: 0.4rem;
+}
+
+.addChores input::placeholder {
+  font-style: italic;
+  color: #cfcfcf;
+}
+
+.btn {
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+
+.clearBtn {
+  color: #5c5c5c;
+  font-weight: 700;
+}
