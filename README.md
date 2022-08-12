@@ -7,10 +7,18 @@
 
 ## Built With
 
-- Major languages : HTML, CSS, JavaScript
-- Tools: Github
-- Code Editor: VScode
-- Packages: NPM, Node, Webpack
+###### Languages 
+- HTML
+- CSS
+- JAVASCRIPT
+###### Tools  
+- Github
+###### Code Editor
+- VS code
+###### Packages 
+- NPM
+- Node
+- Webpack
 
 ## Live Demo (if available)
 
@@ -19,11 +27,8 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+follow>>>>>>>>>
 
 ### Prerequisites
 Install a code Editor
@@ -31,12 +36,28 @@ Install NPM and Nodejs package
 install a webpack.
 
 ### Setup
-Open terminal and make an empty folder and cd to the folder
+to use the project To do list please follow :
 
+> Open GitHub and go to my GitHub repository name: To-do-list.
+> Click “Code” and copy the given URL.
+> click code and copy the URL.
+> click code and copy the URL.
+> Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
+> Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
+> Syntax:
+$ git clone {repository URL}
 
-### Install
 
 ### Usage
+
+> open your directory To-do-List/
+\_use vs-code or any IDE to view line code .
+
+---
+
+$ npm start to run the local server
+
+---
 
 ### Run tests
 
@@ -48,16 +69,16 @@ Open terminal and make an empty folder and cd to the folder
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Rn486](https://github.com/Rn486)
+- Twitter: [@recillahk](https://twitter.com/recillahk)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/recillah-khamala-071151b7/)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Rn486/To-Do-List/issues).
 
 ## Show your support
 
@@ -65,9 +86,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Microverse
 - Inspiration
-- etc
+- 
 
 ## 📝 License
 

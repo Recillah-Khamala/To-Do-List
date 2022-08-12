@@ -3,33 +3,33 @@ import './style.css';
 const toDoTasks = [
   {
     description: 'Cleaned the house',
-    completed: true,
+    completed: false,
     index: 1,
   },
   {
     description: 'Prepared all the meals',
-    completed: true,
+    completed: false,
     index: 2,
   },
   {
     description: 'Done weekly shopping',
-    completed: true,
-    index: 1,
+    completed: false,
+    index: 3,
   },
   {
     description: 'Finished the assignment',
-    completed: true,
-    index: 1,
+    completed: false,
+    index: 4,
   },
   {
     description: 'Completed the daily workout',
     completed: false,
-    index: 1,
+    index: 5,
   },
   {
     description: 'Cleaned the car',
     completed: false,
-    index: 1,
+    index: 6,
   },
 ];
 
